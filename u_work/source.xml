@@ -1,0 +1,1135 @@
+<?xml version=“1.0” encoding=“utf-8”?>
+<dblpperson name="David Moloney" pid="76/3181" n="47">
+<person key="homepages/76/3181" mdate="2009-06-09">
+<author pid="76/3181">David Moloney</author>
+</person>
+<r>
+<article key="journals/sensors/PandeyPBM21" mdate="2021-03-23">
+<author pid="287/1522">Tejas Pandey</author>
+<author pid="29/559">Dexmont Peña</author>
+<author orcid="0000-0003-4556-8348" pid="95/7184">Jonathan Byrne</author>
+<author pid="76/3181">David Moloney</author>
+<title>Leveraging Deep Learning for Visual Odometry Using Optical Flow.</title>
+<pages>1313</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.3390/s21041313</ee>
+<url>db/journals/sensors/sensors21.html#PandeyPBM21</url>
+</article>
+</r>
+<r>
+<article key="journals/tecs/LeonLPSFTM21" mdate="2021-05-11">
+<author pid="215/2058">Vasileios Leon</author>
+<author pid="14/326">George Lentaris</author>
+<author pid="292/1336">Evangelos Petrongonas</author>
+<author pid="s/DimitriosSoudris">Dimitrios Soudris</author>
+<author pid="157/9040">Gianluca Furano</author>
+<author pid="233/0686">Antonis Tavoularis</author>
+<author pid="76/3181">David Moloney</author>
+<title>Improving Performance-Power-Programmability in Space Avionics with Edge Devices: VBN on Myriad2 SoC.</title>
+<pages>22:1-22:23</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3440885</ee>
+<url>db/journals/tecs/tecs20.html#LeonLPSFTM21</url>
+</article>
+</r>
+<r>
+<article key="journals/ijon/XuCAFM20" mdate="2021-03-11">
+<author pid="182/5393">Xiaofan Xu</author>
+<author pid="182/5400">Sam Caulfield</author>
+<author pid="136/4979">Joao Amaro</author>
+<author orcid="0000-0001-9805-6747" pid="03/1355">Gabriel Falcão 0001</author>
+<author pid="76/3181">David Moloney</author>
+<title>1.2 Watt Classification of 3D Voxel Based Point-clouds using a CNN on a Neural Compute Stick.</title>
+<pages>165-174</pages>
+<year>2020</year>
+<volume>393</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2018.10.114</ee>
+<url>db/journals/ijon/ijon393.html#XuCAFM20</url>
+</article>
+</r>
+<r>
+<article key="journals/sensors/RijlaarsdamYBOF20" mdate="2020-05-30">
+<author orcid="0000-0002-4146-8529" pid="05/10529">David Rijlaarsdam</author>
+<author pid="202/5520">Hamza Yous</author>
+<author pid="95/7184">Jonathan Byrne</author>
+<author pid="265/2535">Davide Oddenino</author>
+<author orcid="0000-0001-7624-1415" pid="157/9040">Gianluca Furano</author>
+<author pid="76/3181">David Moloney</author>
+<title>A Survey of Lost-in-Space Star Identification Algorithms Since 2009.</title>
+<pages>2579</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>9</number>
+<ee type="oa">https://doi.org/10.3390/s20092579</ee>
+<ee>https://www.wikidata.org/entity/Q94542589</ee>
+<url>db/journals/sensors/sensors20.html#RijlaarsdamYBOF20</url>
+</article>
+</r>
+<r>
+<article key="journals/sensors/RijlaarsdamYBOF20a" mdate="2020-08-13">
+<author orcid="0000-0002-4146-8529" pid="05/10529">David Rijlaarsdam</author>
+<author pid="202/5520">Hamza Yous</author>
+<author pid="95/7184">Jonathan Byrne</author>
+<author pid="265/2535">Davide Oddenino</author>
+<author orcid="0000-0001-7624-1415" pid="157/9040">Gianluca Furano</author>
+<author pid="76/3181">David Moloney</author>
+<title>Efficient Star Identification Using a Neural Network.</title>
+<pages>3684</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>13</number>
+<ee type="oa">https://doi.org/10.3390/s20133684</ee>
+<ee>https://www.wikidata.org/entity/Q97411652</ee>
+<url>db/journals/sensors/sensors20.html#RijlaarsdamYBOF20a</url>
+</article>
+</r>
+<r>
+<article key="journals/tgrs/GuptaBMWY20" mdate="2020-05-12">
+<author orcid="0000-0001-6743-1479" pid="26/3012">Ananya Gupta</author>
+<author orcid="0000-0003-4556-8348" pid="95/7184">Jonathan Byrne</author>
+<author pid="76/3181">David Moloney</author>
+<author orcid="0000-0001-9783-0147" pid="80/9675">Simon Watson</author>
+<author orcid="0000-0002-9198-5401" pid="80/2742">Hujun Yin</author>
+<title>Tree Annotations in LiDAR Data Using Point Densities and Convolutional Neural Networks.</title>
+<pages>971-981</pages>
+<year>2020</year>
+<volume>58</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TGRS.2019.2942201</ee>
+<url>db/journals/tgrs/tgrs58.html#GuptaBMWY20</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/vlsic/Kar0HMCKSKAKBSK20" mdate="2020-08-24">
+<author pid="149/4005">Monodeep Kar</author>
+<author pid="67/340-1">Amit Agarwal 0001</author>
+<author pid="21/4709">Steven Hsu</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="21/4156">Gregory K. Chen</author>
+<author pid="25/9979">Raghavan Kumar</author>
+<author pid="44/9083">Huseyin Sumbul</author>
+<author pid="236/6739">Phil V. Knag</author>
+<author pid="03/845">Mark Anders</author>
+<author pid="00/4416">Himanshu Kaul</author>
+<author pid="95/7184">Jonathan Byrne</author>
+<author pid="184/6174">Luca Sarti</author>
+<author pid="19/6426">Ram Krishnamurthy</author>
+<author pid="97/3334">Vivek De</author>
+<title>A Ray-Casting Accelerator in 10nm CMOS for Efficient 3D Scene Reconstruction in Edge Robotics and Augmented Reality Applications.</title>
+<pages>1-2</pages>
+<year>2020</year>
+<booktitle>VLSI Circuits</booktitle>
+<ee>https://doi.org/10.1109/VLSICircuits18222.2020.9163067</ee>
+<crossref>conf/vlsic/2020</crossref>
+<url>db/conf/vlsic/vlsic2020.html#Kar0HMCKSKAKBSK20</url>
+</inproceedings>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-2006-05560" mdate="2020-06-13">
+<author pid="26/3012">Ananya Gupta</author>
+<author pid="95/7184">Jonathan Byrne</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="80/9675">Simon Watson</author>
+<author pid="80/2742">Hujun Yin</author>
+<title>Tree Annotations in LiDAR Data Using Point Densities and Convolutional Neural Networks.</title>
+<year>2020</year>
+<volume>abs/2006.05560</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.05560</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-05560</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/inns/CettoBXM19" mdate="2019-05-08">
+<author pid="240/3470">Tomaso Cetto</author>
+<author pid="95/7184">Jonathan Byrne</author>
+<author pid="182/5393">Xiaofan Xu</author>
+<author pid="76/3181">David Moloney</author>
+<title>Size/Accuracy Trade-Off in Convolutional Neural Networks: An Evolutionary Approach.</title>
+<pages>17-26</pages>
+<year>2019</year>
+<booktitle>INNSBDDL</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-16841-4_3</ee>
+<crossref>conf/inns/2019</crossref>
+<url>db/conf/inns/inns2019.html#CettoBXM19</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/symmetry/Espinosa-Aranda18" mdate="2020-03-27">
+<author orcid="0000-0001-5377-848X" pid="130/0777">José Luis Espinosa-Aranda</author>
+<author orcid="0000-0002-5092-8275" pid="06/8173">Noelia Vállez</author>
+<author pid="199/8842">Jose M. Rico-Saavedra</author>
+<author pid="199/8829">Javier Parra-Patino</author>
+<author orcid="0000-0002-7345-4869" pid="26/9015">Gloria Bueno García</author>
+<author pid="68/3937">Matteo Sorci</author>
+<author pid="76/3181">David Moloney</author>
+<author orcid="0000-0002-3855-1364" pid="29/559">Dexmont Peña</author>
+<author orcid="0000-0002-0841-4131" pid="d/OscarDenizSuarez">Oscar Déniz-Suárez</author>
+<title>Smart Doll: Emotion Recognition Using Embedded Deep Learning.</title>
+<pages>387</pages>
+<year>2018</year>
+<volume>10</volume>
+<journal>Symmetry</journal>
+<number>9</number>
+<ee type="oa">https://doi.org/10.3390/sym10090387</ee>
+<url>db/journals/symmetry/symmetry10.html#Espinosa-Aranda18</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/dac/XygkisPMSY18" mdate="2018-11-21">
+<author pid="221/2897">Athanasios Xygkis</author>
+<author pid="29/3049">Lazaros Papadopoulos</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="s/DimitriosSoudris">Dimitrios Soudris</author>
+<author pid="12/3033">Sofiane Yous</author>
+<title>Efficient winograd-based convolution kernel implementation on edge devices.</title>
+<pages>136:1-136:6</pages>
+<year>2018</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3195970.3196041</ee>
+<ee>https://doi.org/10.1109/DAC.2018.8465825</ee>
+<crossref>conf/dac/2018</crossref>
+<url>db/conf/dac/dac2018.html#XygkisPMSY18</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/gamesem/LeeSBM18" mdate="2018-12-14">
+<author pid="44/765">Kevin Lee</author>
+<author pid="231/7286">Anton Shmatov</author>
+<author pid="95/7184">Jonathan Byrne</author>
+<author pid="76/3181">David Moloney</author>
+<title>Digital Scene Augmentation Techniques for Generating Photo-Realistic Virtual Crowds.</title>
+<pages>299-305</pages>
+<year>2018</year>
+<booktitle>GEM</booktitle>
+<ee>https://doi.org/10.1109/GEM.2018.8516471</ee>
+<crossref>conf/gamesem/2018</crossref>
+<url>db/conf/gamesem/gamesem2018.html#LeeSBM18</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/gamesem/BuckleyBM18" mdate="2018-12-14">
+<author pid="208/8090">Leonie Buckley</author>
+<author pid="95/7184">Jonathan Byrne</author>
+<author pid="76/3181">David Moloney</author>
+<title>Investigating the Impact of Suboptimal Hashing Functions.</title>
+<pages>324-331</pages>
+<year>2018</year>
+<booktitle>GEM</booktitle>
+<ee>https://doi.org/10.1109/GEM.2018.8516265</ee>
+<crossref>conf/gamesem/2018</crossref>
+<url>db/conf/gamesem/gamesem2018.html#BuckleyBM18</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/gistam/GuptaBMWY18" mdate="2020-09-05">
+<author orcid="0000-0001-6743-1479" pid="26/3012">Ananya Gupta</author>
+<author pid="95/7184">Jonathan Byrne</author>
+<author pid="76/3181">David Moloney</author>
+<author orcid="0000-0001-9783-0147" pid="80/9675">Simon Watson</author>
+<author orcid="0000-0002-9198-5401" pid="80/2742">Hujun Yin</author>
+<title>Automatic Tree Annotation in LiDAR Data.</title>
+<pages>36-41</pages>
+<year>2018</year>
+<booktitle>GISTAM</booktitle>
+<ee>https://doi.org/10.5220/0006668000360041</ee>
+<crossref>conf/gistam/2018</crossref>
+<url>db/conf/gistam/gistam2018.html#GuptaBMWY18</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/gistam/ByrneBCM18" mdate="2018-04-30">
+<author pid="95/7184">Jonathan Byrne</author>
+<author pid="208/8090">Leonie Buckley</author>
+<author pid="182/5400">Sam Caulfield</author>
+<author pid="76/3181">David Moloney</author>
+<title>VOLA: A Compact Volumetric Format for 3D Mapping and Embedded Systems.</title>
+<pages>129-137</pages>
+<year>2018</year>
+<booktitle>GISTAM</booktitle>
+<ee>https://doi.org/10.5220/0006797501290137</ee>
+<crossref>conf/gistam/2018</crossref>
+<url>db/conf/gistam/gistam2018.html#ByrneBCM18</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/gistam/BuckleyBM18" mdate="2018-04-30">
+<author pid="208/8090">Leonie Buckley</author>
+<author pid="95/7184">Jonathan Byrne</author>
+<author pid="76/3181">David Moloney</author>
+<title>Investigating the Use of Primes in Hashing for Volumetric Data.</title>
+<pages>304-312</pages>
+<year>2018</year>
+<booktitle>GISTAM</booktitle>
+<ee>https://doi.org/10.5220/0006797803040312</ee>
+<crossref>conf/gistam/2018</crossref>
+<url>db/conf/gistam/gistam2018.html#BuckleyBM18</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/ipps/Rivas-GomezPMLM18" mdate="2019-09-25">
+<author pid="148/6327">Sergio Rivas-Gomez</author>
+<author orcid="0000-0002-3575-4617" pid="91/8239">Antonio J. Peña</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="15/4220">Erwin Laure</author>
+<author pid="25/2060">Stefano Markidis</author>
+<title>Exploring the Vision Processing Unit as Co-Processor for Inference.</title>
+<pages>589-598</pages>
+<year>2018</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW.2018.00098</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IPDPSW.2018.00098</ee>
+<crossref>conf/ipps/2018w</crossref>
+<url>db/conf/ipps/ipdps2018w.html#Rivas-GomezPMLM18</url>
+</inproceedings>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-1807-00046" mdate="2020-01-17">
+<author pid="128/5872">Jelena Milosevic</author>
+<author pid="29/559">Dexmont Peña</author>
+<author pid="215/7615">Andrew Forembsky</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="m/MiroslawMalek">Miroslaw Malek</author>
+<title>It All Matters: Reporting Accuracy, Inference Time and Power Consumption for Face Emotion Recognition on Embedded Systems.</title>
+<year>2018</year>
+<volume>abs/1807.00046</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.00046</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-00046</url>
+</article>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-1810-04150" mdate="2018-10-30">
+<author pid="148/6327">Sergio Rivas-Gomez</author>
+<author pid="91/8239">Antonio J. Peña</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="15/4220">Erwin Laure</author>
+<author pid="25/2060">Stefano Markidis</author>
+<title>Exploring the Vision Processing Unit as Co-processor for Inference.</title>
+<year>2018</year>
+<volume>abs/1810.04150</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.04150</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-04150</url>
+</article>
+</r>
+<r>
+<article key="journals/sensors/Deniz-SuarezVER17" mdate="2019-09-25">
+<author orcid="0000-0002-0841-4131" pid="d/OscarDenizSuarez">Oscar Déniz-Suárez</author>
+<author orcid="0000-0002-5092-8275" pid="06/8173">Noelia Vállez</author>
+<author orcid="0000-0001-5377-848X" pid="130/0777">José Luis Espinosa-Aranda</author>
+<author pid="199/8842">Jose M. Rico-Saavedra</author>
+<author pid="199/8829">Javier Parra-Patino</author>
+<author orcid="0000-0002-7345-4869" pid="26/9015">Gloria Bueno García</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="93/8107">Alireza Dehghani</author>
+<author pid="68/5686">Aubrey K. Dunne</author>
+<author pid="59/3540">Alain Pagani</author>
+<author pid="67/11432">Stephan Krauß</author>
+<author pid="199/8795">Ruben Reiser</author>
+<author pid="199/8885">Martin Waeny</author>
+<author pid="68/3937">Matteo Sorci</author>
+<author pid="199/8799">Tim Llewellynn</author>
+<author orcid="0000-0003-1025-0428" pid="152/9353">Christian Fedorczak</author>
+<author pid="199/8906">Thierry Larmoire</author>
+<author pid="199/8821">Marco Herbst</author>
+<author pid="199/8800">Andre Seirafi</author>
+<author pid="44/5385">Kasra Seirafi</author>
+<title>Eyes of Things.</title>
+<pages>1173</pages>
+<year>2017</year>
+<volume>17</volume>
+<journal>Sensors</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.3390/s17051173</ee>
+<ee>https://www.wikidata.org/entity/Q38771202</ee>
+<url>db/journals/sensors/sensors17.html#Deniz-SuarezVER17</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/bmei/XuACFFM17" mdate="2021-03-11">
+<author pid="182/5393">Xiaofan Xu</author>
+<author pid="136/4979">Joao Amaro</author>
+<author pid="182/5400">Sam Caulfield</author>
+<author pid="215/7615">Andrew Forembski</author>
+<author pid="03/1355">Gabriel Falcão 0001</author>
+<author pid="76/3181">David Moloney</author>
+<title>Convolutional neural network on neural compute stick for voxelized point-clouds classification.</title>
+<pages>1-7</pages>
+<year>2017</year>
+<booktitle>CISP-BMEI</booktitle>
+<ee>https://doi.org/10.1109/CISP-BMEI.2017.8302078</ee>
+<crossref>conf/bmei/2017</crossref>
+<url>db/conf/bmei/bmei2017.html#XuACFFM17</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/ic2e/VallezERPDPKRSM17" mdate="2020-03-27">
+<author orcid="0000-0002-5092-8275" pid="06/8173">Noelia Vállez</author>
+<author pid="130/0777">José Luis Espinosa-Aranda</author>
+<author pid="199/8842">Jose M. Rico-Saavedra</author>
+<author pid="199/8829">Javier Parra-Patino</author>
+<author orcid="0000-0002-0841-4131" pid="d/OscarDenizSuarez">Oscar Déniz</author>
+<author pid="59/3540">Alain Pagani</author>
+<author pid="67/11432">Stephan Krauß</author>
+<author pid="199/8795">Ruben Reiser</author>
+<author pid="02/5478">Didier Stricker</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="93/8107">Alireza Dehghani</author>
+<author pid="68/5686">Aubrey K. Dunne</author>
+<author orcid="0000-0002-3855-1364" pid="29/559">Dexmont Peña</author>
+<author pid="199/8885">Martin Waeny</author>
+<author pid="67/417">Pedro Santos</author>
+<author pid="68/3937">Matteo Sorci</author>
+<author pid="199/8799">Tim Llewellynn</author>
+<author pid="152/9353">Christian Fedorczak</author>
+<author pid="199/8906">Thierry Larmoire</author>
+<author pid="199/8907">Elodie Roche</author>
+<author pid="199/8821">Marco Herbst</author>
+<author pid="199/8800">Andre Seirafi</author>
+<author pid="44/5385">Kasra Seirafi</author>
+<title>Eyes of Things.</title>
+<pages>292-297</pages>
+<year>2017</year>
+<booktitle>IC2E</booktitle>
+<ee>https://doi.org/10.1109/IC2E.2017.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IC2E.2017.44</ee>
+<crossref>conf/ic2e/2017</crossref>
+<url>db/conf/ic2e/ic2e2017.html#VallezERPDPKRSM17</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icbsp/PallaMF17" mdate="2019-04-02">
+<author pid="164/0789">Alessandro Palla</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="25/1398">Luca Fanucci</author>
+<title>Scene Reconstruction from a Single Depth Image Using 3D CNN.</title>
+<pages>85-88</pages>
+<year>2017</year>
+<booktitle>ICCBB</booktitle>
+<ee>https://doi.org/10.1145/3155077.3155098</ee>
+<crossref>conf/icbsp/2017</crossref>
+<url>db/conf/icbsp/iccbb2017.html#PallaMF17</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icnc/XuACFM17" mdate="2021-03-11">
+<author pid="182/5393">Xiaofan Xu</author>
+<author pid="136/4979">Joao Amaro</author>
+<author pid="182/5400">Sam Caulfield</author>
+<author pid="03/1355">Gabriel Falcão 0001</author>
+<author pid="76/3181">David Moloney</author>
+<title>Classify 3D voxel based point-cloud using convolutional neural network on a neural compute stick.</title>
+<pages>37-43</pages>
+<year>2017</year>
+<booktitle>ICNC-FSKD</booktitle>
+<ee>https://doi.org/10.1109/FSKD.2017.8393296</ee>
+<crossref>conf/icnc/2017</crossref>
+<url>db/conf/icnc/icnc2017.html#XuACFM17</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icnc/ByrneCBXPBM17" mdate="2020-03-27">
+<author pid="95/7184">Jonathan Byrne</author>
+<author pid="182/5400">Sam Caulfield</author>
+<author pid="208/8090">Leonie Buckley</author>
+<author pid="182/5393">Xiaofan Xu</author>
+<author orcid="0000-0002-3855-1364" pid="29/559">Dexmont Peña</author>
+<author pid="58/213">Gary Baugh</author>
+<author pid="76/3181">David Moloney</author>
+<title>Applications of the VOLA format for 3D data knowledge discovery.</title>
+<pages>1794-1801</pages>
+<year>2017</year>
+<booktitle>ICNC-FSKD</booktitle>
+<ee>https://doi.org/10.1109/FSKD.2017.8393039</ee>
+<crossref>conf/icnc/2017</crossref>
+<url>db/conf/icnc/icnc2017.html#ByrneCBXPBM17</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icsai/LeeM17" mdate="2018-05-25">
+<author pid="44/765">Kevin Lee</author>
+<author pid="76/3181">David Moloney</author>
+<title>Evaluation of synthetic data for deep learning stereo depth algorithms on embedded platforms.</title>
+<pages>170-176</pages>
+<year>2017</year>
+<booktitle>ICSAI</booktitle>
+<ee>https://doi.org/10.1109/ICSAI.2017.8248284</ee>
+<crossref>conf/icsai/2017</crossref>
+<url>db/conf/icsai/icsai2017.html#LeeM17</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icsai/PallaMF17" mdate="2018-05-25">
+<author pid="164/0789">Alessandro Palla</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="25/1398">Luca Fanucci</author>
+<title>Fully convolutional denoising autoencoder for 3D scene reconstruction from a single depth image.</title>
+<pages>566-575</pages>
+<year>2017</year>
+<booktitle>ICSAI</booktitle>
+<ee>https://doi.org/10.1109/ICSAI.2017.8248355</ee>
+<crossref>conf/icsai/2017</crossref>
+<url>db/conf/icsai/icsai2017.html#PallaMF17</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/iwssip/DehghaniMX17" mdate="2019-02-08">
+<author pid="93/8107">Alireza Dehghani</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="182/5393">Xiaofan Xu</author>
+<title>Face detection speed improvement using bitmap-based Histogram of Oriented gradien.</title>
+<pages>1-5</pages>
+<year>2017</year>
+<booktitle>IWSSIP</booktitle>
+<ee>https://doi.org/10.1109/IWSSIP.2017.7965568</ee>
+<crossref>conf/iwssip/2017</crossref>
+<url>db/conf/iwssip/iwssip2017.html#DehghaniMX17</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/amdo/XuCDCM16" mdate="2017-05-24">
+<author pid="182/5393">Xiaofan Xu</author>
+<author pid="23/3413">David Corrigan</author>
+<author pid="93/8107">Alireza Dehghani</author>
+<author pid="182/5400">Sam Caulfield</author>
+<author pid="76/3181">David Moloney</author>
+<title>3D Object Recognition Based on Volumetric Representation Using Convolutional Neural Networks.</title>
+<pages>147-156</pages>
+<year>2016</year>
+<booktitle>AMDO</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-41778-3_15</ee>
+<crossref>conf/amdo/2016</crossref>
+<url>db/conf/amdo/amdo2016.html#XuCDCM16</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/hotchips/BuckleyCM16" mdate="2017-11-19">
+<author pid="208/8090">Leonie Buckley</author>
+<author pid="182/5400">Sam Caulfield</author>
+<author pid="76/3181">David Moloney</author>
+<title>MvEcho - acoustic response modelling for auralisation.</title>
+<pages>1</pages>
+<year>2016</year>
+<booktitle>Hot Chips Symposium</booktitle>
+<ee>https://doi.org/10.1109/HOTCHIPS.2016.7936238</ee>
+<crossref>conf/hotchips/2016</crossref>
+<url>db/conf/hotchips/hotchips2016.html#BuckleyCM16</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/hotchips/BuckleyCM16a" mdate="2017-11-19">
+<author pid="208/8090">Leonie Buckley</author>
+<author pid="182/5400">Sam Caulfield</author>
+<author pid="76/3181">David Moloney</author>
+<title>MvEcho.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>Hot Chips Symposium</booktitle>
+<ee>https://doi.org/10.1109/HOTCHIPS.2016.7936239</ee>
+<crossref>conf/hotchips/2016</crossref>
+<url>db/conf/hotchips/hotchips2016.html#BuckleyCM16a</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/hotchips/Moloney16" mdate="2017-11-19">
+<author pid="76/3181">David Moloney</author>
+<title>HW acceleration for volumetric applications.</title>
+<pages>1-19</pages>
+<year>2016</year>
+<booktitle>Hot Chips Symposium</booktitle>
+<ee>https://doi.org/10.1109/HOTCHIPS.2016.7936196</ee>
+<crossref>conf/hotchips/2016</crossref>
+<url>db/conf/hotchips/hotchips2016.html#Moloney16</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/hotchips/Moloney16a" mdate="2017-11-19">
+<author pid="76/3181">David Moloney</author>
+<title>Embedded deep neural networks: "The cost of everything and the value of nothing".</title>
+<pages>1-20</pages>
+<year>2016</year>
+<booktitle>Hot Chips Symposium</booktitle>
+<ee>https://doi.org/10.1109/HOTCHIPS.2016.7936219</ee>
+<crossref>conf/hotchips/2016</crossref>
+<url>db/conf/hotchips/hotchips2016.html#Moloney16a</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/hotchips/PugliaIRM16" mdate="2017-11-19">
+<author pid="152/2337">Luca Puglia</author>
+<author pid="208/8230">Mircea Ionica</author>
+<author pid="33/6076">Giancarlo Raiconi</author>
+<author pid="76/3181">David Moloney</author>
+<title>Passive dense stereo vision on the Myriad2 VPU.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>Hot Chips Symposium</booktitle>
+<ee>https://doi.org/10.1109/HOTCHIPS.2016.7936240</ee>
+<crossref>conf/hotchips/2016</crossref>
+<url>db/conf/hotchips/hotchips2016.html#PugliaIRM16</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icip/DehghaniMG16" mdate="2017-05-25">
+<author pid="93/8107">Alireza Dehghani</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="07/2662">Ivan Griffin</author>
+<title>Object recognition speed improvement using BITMAP-HoG.</title>
+<pages>659-663</pages>
+<year>2016</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2016.7532439</ee>
+<crossref>conf/icip/2016</crossref>
+<url>db/conf/icip/icip2016.html#DehghaniMG16</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/spline/XuDCCM16" mdate="2017-05-25">
+<author pid="182/5393">Xiaofan Xu</author>
+<author pid="93/8107">Alireza Dehghani</author>
+<author pid="23/3413">David Corrigan</author>
+<author pid="182/5400">Sam Caulfield</author>
+<author pid="76/3181">David Moloney</author>
+<title>Convolutional Neural Network for 3D object recognition using volumetric representation.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>SPLINE</booktitle>
+<ee>https://doi.org/10.1109/SPLIM.2016.7528403</ee>
+<crossref>conf/spline/2016</crossref>
+<url>db/conf/spline/spline2016.html#XuDCCM16</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/cem/MoloneyD15" mdate="2020-06-18">
+<author pid="76/3181">David Moloney</author>
+<author pid="d/OscarDenizSuarez">Oscar Déniz-Suárez</author>
+<title>A Vision for the Future [Soapbox].</title>
+<pages>40-45</pages>
+<year>2015</year>
+<volume>4</volume>
+<journal>IEEE Consumer Electron. Mag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MCE.2015.2392956</ee>
+<url>db/journals/cem/cem4.html#MoloneyD15</url>
+</article>
+</r>
+<r>
+<article key="journals/micro/BarryBCDMROT15" mdate="2017-05-20">
+<author pid="150/8314">Brendan Barry</author>
+<author pid="161/7917">Cormac Brick</author>
+<author pid="12/1246">Fergal Connor</author>
+<author pid="161/7945">David Donohoe</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="161/7911">Richard Richmond</author>
+<author pid="161/7952">Martin J. O'Riordan</author>
+<author pid="161/7974">Vasile Toma</author>
+<title>Always-on Vision Processing Unit for Mobile Applications.</title>
+<pages>56-66</pages>
+<year>2015</year>
+<volume>35</volume>
+<journal>IEEE Micro</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MM.2015.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MM.2015.10</ee>
+<url>db/journals/micro/micro35.html#BarryBCDMROT15</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/asap/DikenOJJCM15" mdate="2017-05-26">
+<author pid="86/11334">Erkan Diken</author>
+<author pid="161/7952">Martin J. O'Riordan</author>
+<author pid="56/9361">Roel Jordans</author>
+<author pid="07/5030">Lech Józwiak</author>
+<author pid="53/6375">Henk Corporaal</author>
+<author pid="76/3181">David Moloney</author>
+<title>Mixed-length SIMD code generation for VLIW architectures with multiple native vector-widths.</title>
+<pages>181-188</pages>
+<year>2015</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2015.7245732</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASAP.2015.7245732</ee>
+<crossref>conf/asap/2015</crossref>
+<url>db/conf/asap/asap2015.html#DikenOJJCM15</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/hotchips/MoloneyBRCBD14" mdate="2017-11-19">
+<author pid="76/3181">David Moloney</author>
+<author pid="150/8314">Brendan Barry</author>
+<author pid="161/7911">Richard Richmond</author>
+<author pid="12/1246">Fergal Connor</author>
+<author pid="161/7917">Cormac Brick</author>
+<author pid="161/7945">David Donohoe</author>
+<title>Myriad 2: Eye of the computational vision storm.</title>
+<pages>1-18</pages>
+<year>2014</year>
+<booktitle>Hot Chips Symposium</booktitle>
+<ee>https://doi.org/10.1109/HOTCHIPS.2014.7478823</ee>
+<crossref>conf/hotchips/2014</crossref>
+<url>db/conf/hotchips/hotchips2014.html#MoloneyBRCBD14</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/hotchips/SzydzikFOM14" mdate="2017-11-19">
+<author pid="81/10762">Tomasz Szydzik</author>
+<author pid="208/8180">Marius Farcas</author>
+<author pid="208/8147">Valeriu Ohan</author>
+<author pid="76/3181">David Moloney</author>
+<title>Level-3 BLAS on myriad multi-core media-processor SoC.</title>
+<pages>1</pages>
+<year>2014</year>
+<booktitle>Hot Chips Symposium</booktitle>
+<ee>https://doi.org/10.1109/HOTCHIPS.2014.7478835</ee>
+<crossref>conf/hotchips/2014</crossref>
+<url>db/conf/hotchips/hotchips2014.html#SzydzikFOM14</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/hotchips/SzydzikM14" mdate="2017-11-19">
+<author pid="81/10762">Tomasz Szydzik</author>
+<author pid="76/3181">David Moloney</author>
+<title>Precision refinement for media-processor SoCs: fp32 -> fp64 on myriad.</title>
+<pages>1</pages>
+<year>2014</year>
+<booktitle>Hot Chips Symposium</booktitle>
+<ee>https://doi.org/10.1109/HOTCHIPS.2014.7478834</ee>
+<crossref>conf/hotchips/2014</crossref>
+<url>db/conf/hotchips/hotchips2014.html#SzydzikM14</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/micro/BenknerPTTDABKMO11" mdate="2018-11-14">
+<author pid="s/SiegfriedBenkner">Siegfried Benkner</author>
+<author pid="40/1392">Sabri Pllana</author>
+<author pid="t/JLTraff">Jesper Larsson Träff</author>
+<author orcid="0000-0001-9635-9154" pid="t/PhilippasTsigas">Philippas Tsigas</author>
+<author pid="43/7855">Uwe Dolinsky</author>
+<author pid="78/142">Cédric Augonnet</author>
+<author pid="42/10311">Beverly Bachmayer</author>
+<author pid="k/ChristophWKessler">Christoph W. Kessler</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="91/2425">Vitaly Osipov</author>
+<title>PEPPHER: Efficient and Productive Usage of Hybrid Computing Systems.</title>
+<pages>28-41</pages>
+<year>2011</year>
+<volume>31</volume>
+<journal>IEEE Micro</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MM.2011.67</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MM.2011.67</ee>
+<ee>https://www.wikidata.org/entity/Q56784189</ee>
+<url>db/journals/micro/micro31.html#BenknerPTTDABKMO11</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/parco/BenknerPTTRNBKMS11" mdate="2018-11-02">
+<author orcid="0000-0002-6520-2047" pid="s/SiegfriedBenkner">Siegfried Benkner</author>
+<author pid="40/1392">Sabri Pllana</author>
+<author pid="t/JLTraff">Jesper Larsson Träff</author>
+<author orcid="0000-0001-9635-9154" pid="t/PhilippasTsigas">Philippas Tsigas</author>
+<author pid="19/6205">Andrew Richards</author>
+<author pid="75/4443">Raymond Namyst</author>
+<author pid="42/10311">Beverly Bachmayer</author>
+<author pid="k/ChristophWKessler">Christoph W. Kessler</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="s/PeterSanders">Peter Sanders 0001</author>
+<title>The PEPPHER Approach to Programmability and Performance Portability for Heterogeneous many-core Architectures.</title>
+<pages>361-368</pages>
+<year>2011</year>
+<booktitle>PARCO</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-041-3-361</ee>
+<crossref>conf/parco/2011</crossref>
+<url>db/conf/parco/parco2011.html#BenknerPTTRNBKMS11</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/fpl/GreggMMCMMG07" mdate="2017-05-21">
+<author pid="g/DavidGregg">David Gregg</author>
+<author pid="43/161">Colm McSweeney</author>
+<author pid="45/1585">Ciarán McElroy</author>
+<author pid="12/1246">Fergal Connor</author>
+<author pid="36/987">Séamas McGettrick</author>
+<author pid="76/3181">David Moloney</author>
+<author pid="36/5879">Dermot Geraghty</author>
+<title>FPGA based Sparse Matrix Vector Multiplication using Commodity DRAM Memory.</title>
+<pages>786-791</pages>
+<year>2007</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2007.4380769</ee>
+<crossref>conf/fpl/2007</crossref>
+<url>db/conf/fpl/fpl2007.html#GreggMMCMMG07</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/hipeac/MoloneyGMM05" mdate="2017-05-21">
+<author pid="76/3181">David Moloney</author>
+<author pid="36/5879">Dermot Geraghty</author>
+<author pid="43/161">Colm McSweeney</author>
+<author pid="45/1585">Ciarán McElroy</author>
+<title>Streaming Sparse Matrix Compression/Decompression.</title>
+<pages>116-129</pages>
+<year>2005</year>
+<crossref>conf/hipeac/2005</crossref>
+<booktitle>HiPEAC</booktitle>
+<ee>https://doi.org/10.1007/11587514_9</ee>
+<url>db/conf/hipeac/hipeac2005.html#MoloneyGMM05</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isqed/DingMW00" mdate="2020-01-08">
+<author pid="29/6045">Jin Ding</author>
+<author pid="76/3181">David Moloney</author>
+<author orcid="0000-0002-4674-7711" pid="13/4881-1">Xiaojun Wang 0001</author>
+<title>Aliasing-Free Space and Time Compactions with Limited Overhead.</title>
+<pages>355-360</pages>
+<year>2000</year>
+<crossref>conf/isqed/2000</crossref>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2000.838896</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISQED.2000.838896</ee>
+<url>db/conf/isqed/isqed2000.html#DingMW00</url>
+</inproceedings>
+</r>
+<coauthors n="108" nc="3">
+<co c="0">
+<na f="a/Agarwal_0001:Amit" pid="67/340-1">Amit Agarwal 0001</na>
+</co>
+<co c="0">
+<na f="a/Amaro:Joao" pid="136/4979">Joao Amaro</na>
+</co>
+<co c="0">
+<na f="a/Anders:Mark" pid="03/845">Mark Anders</na>
+</co>
+<co c="0">
+<na f="a/Augonnet:C=eacute=dric" pid="78/142">Cédric Augonnet</na>
+</co>
+<co c="0">
+<na f="b/Bachmayer:Beverly" pid="42/10311">Beverly Bachmayer</na>
+</co>
+<co c="0">
+<na f="b/Barry:Brendan" pid="150/8314">Brendan Barry</na>
+</co>
+<co c="0">
+<na f="b/Baugh:Gary" pid="58/213">Gary Baugh</na>
+</co>
+<co c="0">
+<na f="b/Benkner:Siegfried" pid="s/SiegfriedBenkner">Siegfried Benkner</na>
+</co>
+<co c="0">
+<na f="b/Brick:Cormac" pid="161/7917">Cormac Brick</na>
+</co>
+<co c="0">
+<na f="b/Buckley:Leonie" pid="208/8090">Leonie Buckley</na>
+</co>
+<co c="0">
+<na f="b/Byrne:Jonathan" pid="95/7184">Jonathan Byrne</na>
+</co>
+<co c="0">
+<na f="c/Caulfield:Sam" pid="182/5400">Sam Caulfield</na>
+</co>
+<co c="0">
+<na f="c/Cetto:Tomaso" pid="240/3470">Tomaso Cetto</na>
+</co>
+<co c="0">
+<na f="c/Chen:Gregory_K=" pid="21/4156">Gregory K. Chen</na>
+</co>
+<co c="0">
+<na f="c/Connor:Fergal" pid="12/1246">Fergal Connor</na>
+</co>
+<co c="0">
+<na f="c/Corporaal:Henk" pid="53/6375">Henk Corporaal</na>
+</co>
+<co c="0">
+<na f="c/Corrigan:David" pid="23/3413">David Corrigan</na>
+</co>
+<co c="0">
+<na f="d/De:Vivek" pid="97/3334">Vivek De</na>
+</co>
+<co c="0">
+<na f="d/Dehghani:Alireza" pid="93/8107">Alireza Dehghani</na>
+</co>
+<co c="0" n="2">
+<na f="d/D=eacute=niz=Su=aacute=rez:Oscar" pid="d/OscarDenizSuarez">Oscar Déniz-Suárez</na>
+<na>Oscar Déniz</na>
+</co>
+<co c="0">
+<na f="d/Diken:Erkan" pid="86/11334">Erkan Diken</na>
+</co>
+<co c="2">
+<na f="d/Ding:Jin" pid="29/6045">Jin Ding</na>
+</co>
+<co c="0">
+<na f="d/Dolinsky:Uwe" pid="43/7855">Uwe Dolinsky</na>
+</co>
+<co c="0">
+<na f="d/Donohoe:David" pid="161/7945">David Donohoe</na>
+</co>
+<co c="0">
+<na f="d/Dunne:Aubrey_K=" pid="68/5686">Aubrey K. Dunne</na>
+</co>
+<co c="0">
+<na f="e/Espinosa=Aranda:Jos=eacute=_Luis" pid="130/0777">José Luis Espinosa-Aranda</na>
+</co>
+<co c="0">
+<na f="f/Fanucci:Luca" pid="25/1398">Luca Fanucci</na>
+</co>
+<co c="1">
+<na f="f/Farcas:Marius" pid="208/8180">Marius Farcas</na>
+</co>
+<co c="0">
+<na f="f/Fedorczak:Christian" pid="152/9353">Christian Fedorczak</na>
+</co>
+<co c="0" n="2">
+<na f="f/Fernandes:Gabriel_Falc=atilde=o_Paiva" pid="03/1355">Gabriel Falcão Paiva Fernandes</na>
+<na>Gabriel Falcão 0001</na>
+</co>
+<co c="0" n="2">
+<na f="f/Forembski:Andrew" pid="215/7615">Andrew Forembski</na>
+<na>Andrew Forembsky</na>
+</co>
+<co c="0">
+<na f="f/Furano:Gianluca" pid="157/9040">Gianluca Furano</na>
+</co>
+<co c="0">
+<na f="g/Garc=iacute=a:Gloria_Bueno" pid="26/9015">Gloria Bueno García</na>
+</co>
+<co c="0">
+<na f="g/Geraghty:Dermot" pid="36/5879">Dermot Geraghty</na>
+</co>
+<co c="0">
+<na f="g/Gregg:David" pid="g/DavidGregg">David Gregg</na>
+</co>
+<co c="0">
+<na f="g/Griffin:Ivan" pid="07/2662">Ivan Griffin</na>
+</co>
+<co c="0">
+<na f="g/Gupta:Ananya" pid="26/3012">Ananya Gupta</na>
+</co>
+<co c="0">
+<na f="h/Herbst:Marco" pid="199/8821">Marco Herbst</na>
+</co>
+<co c="0">
+<na f="h/Hsu:Steven" pid="21/4709">Steven Hsu</na>
+</co>
+<co c="0">
+<na f="i/Ionica:Mircea" pid="208/8230">Mircea Ionica</na>
+</co>
+<co c="0">
+<na f="j/Jordans:Roel" pid="56/9361">Roel Jordans</na>
+</co>
+<co c="0">
+<na f="j/J=oacute=zwiak:Lech" pid="07/5030">Lech Józwiak</na>
+</co>
+<co c="0">
+<na f="k/Kar:Monodeep" pid="149/4005">Monodeep Kar</na>
+</co>
+<co c="0">
+<na f="k/Kaul:Himanshu" pid="00/4416">Himanshu Kaul</na>
+</co>
+<co c="0">
+<na f="k/Kessler:Christoph_W=" pid="k/ChristophWKessler">Christoph W. Kessler</na>
+</co>
+<co c="0">
+<na f="k/Knag:Phil_V=" pid="236/6739">Phil V. Knag</na>
+</co>
+<co c="0">
+<na f="k/Krau=szlig=:Stephan" pid="67/11432">Stephan Krauß</na>
+</co>
+<co c="0">
+<na f="k/Krishnamurthy:Ram" pid="19/6426">Ram Krishnamurthy</na>
+</co>
+<co c="0">
+<na f="k/Kumar:Raghavan" pid="25/9979">Raghavan Kumar</na>
+</co>
+<co c="0">
+<na f="l/Larmoire:Thierry" pid="199/8906">Thierry Larmoire</na>
+</co>
+<co c="0">
+<na f="l/Laure:Erwin" pid="15/4220">Erwin Laure</na>
+</co>
+<co c="0">
+<na f="l/Lee:Kevin" pid="44/765">Kevin Lee</na>
+</co>
+<co c="0">
+<na f="l/Lentaris:George" pid="14/326">George Lentaris</na>
+</co>
+<co c="0">
+<na f="l/Leon:Vasileios" pid="215/2058">Vasileios Leon</na>
+</co>
+<co c="0">
+<na f="l/Llewellynn:Tim" pid="199/8799">Tim Llewellynn</na>
+</co>
+<co c="0">
+<na f="m/Malek:Miroslaw" pid="m/MiroslawMalek">Miroslaw Malek</na>
+</co>
+<co c="0">
+<na f="m/Markidis:Stefano" pid="25/2060">Stefano Markidis</na>
+</co>
+<co c="0">
+<na f="m/McElroy:Ciar=aacute=n" pid="45/1585">Ciarán McElroy</na>
+</co>
+<co c="0">
+<na f="m/McGettrick:S=eacute=amas" pid="36/987">Séamas McGettrick</na>
+</co>
+<co c="0">
+<na f="m/McSweeney:Colm" pid="43/161">Colm McSweeney</na>
+</co>
+<co c="0">
+<na f="m/Milosevic:Jelena" pid="128/5872">Jelena Milosevic</na>
+</co>
+<co c="0">
+<na f="n/Namyst:Raymond" pid="75/4443">Raymond Namyst</na>
+</co>
+<co c="0">
+<na f="o/Oddenino:Davide" pid="265/2535">Davide Oddenino</na>
+</co>
+<co c="1">
+<na f="o/Ohan:Valeriu" pid="208/8147">Valeriu Ohan</na>
+</co>
+<co c="0">
+<na f="o/O=Riordan:Martin_J=" pid="161/7952">Martin J. O'Riordan</na>
+</co>
+<co c="0">
+<na f="o/Osipov:Vitaly" pid="91/2425">Vitaly Osipov</na>
+</co>
+<co c="0">
+<na f="p/Pagani:Alain" pid="59/3540">Alain Pagani</na>
+</co>
+<co c="0">
+<na f="p/Palla:Alessandro" pid="164/0789">Alessandro Palla</na>
+</co>
+<co c="0">
+<na f="p/Pandey:Tejas" pid="287/1522">Tejas Pandey</na>
+</co>
+<co c="0">
+<na f="p/Papadopoulos:Lazaros" pid="29/3049">Lazaros Papadopoulos</na>
+</co>
+<co c="0">
+<na f="p/Parra=Patino:Javier" pid="199/8829">Javier Parra-Patino</na>
+</co>
+<co c="0">
+<na f="p/Pe=ntilde=a:Antonio_J=" pid="91/8239">Antonio J. Peña</na>
+</co>
+<co c="0">
+<na f="p/Pe=ntilde=a:Dexmont" pid="29/559">Dexmont Peña</na>
+</co>
+<co c="0">
+<na f="p/Petrongonas:Evangelos" pid="292/1336">Evangelos Petrongonas</na>
+</co>
+<co c="0">
+<na f="p/Pllana:Sabri" pid="40/1392">Sabri Pllana</na>
+</co>
+<co c="0">
+<na f="p/Puglia:Luca" pid="152/2337">Luca Puglia</na>
+</co>
+<co c="0">
+<na f="r/Raiconi:Giancarlo" pid="33/6076">Giancarlo Raiconi</na>
+</co>
+<co c="0">
+<na f="r/Reiser:Ruben" pid="199/8795">Ruben Reiser</na>
+</co>
+<co c="0">
+<na f="r/Richards:Andrew" pid="19/6205">Andrew Richards</na>
+</co>
+<co c="0">
+<na f="r/Richmond:Richard" pid="161/7911">Richard Richmond</na>
+</co>
+<co c="0">
+<na f="r/Rico=Saavedra:Jose_M=" pid="199/8842">Jose M. Rico-Saavedra</na>
+</co>
+<co c="0">
+<na f="r/Rijlaarsdam:David" pid="05/10529">David Rijlaarsdam</na>
+</co>
+<co c="0">
+<na f="r/Rivas=Gomez:Sergio" pid="148/6327">Sergio Rivas-Gomez</na>
+</co>
+<co c="0">
+<na f="r/Roche:Elodie" pid="199/8907">Elodie Roche</na>
+</co>
+<co c="0">
+<na f="s/Sanders_0001:Peter" pid="s/PeterSanders">Peter Sanders 0001</na>
+</co>
+<co c="0">
+<na f="s/Santos:Pedro" pid="67/417">Pedro Santos</na>
+</co>
+<co c="0">
+<na f="s/Sarti:Luca" pid="184/6174">Luca Sarti</na>
+</co>
+<co c="0">
+<na f="s/Seirafi:Andre" pid="199/8800">Andre Seirafi</na>
+</co>
+<co c="0">
+<na f="s/Seirafi:Kasra" pid="44/5385">Kasra Seirafi</na>
+</co>
+<co c="0">
+<na f="s/Shmatov:Anton" pid="231/7286">Anton Shmatov</na>
+</co>
+<co c="0">
+<na f="s/Sorci:Matteo" pid="68/3937">Matteo Sorci</na>
+</co>
+<co c="0">
+<na f="s/Soudris:Dimitrios" pid="s/DimitriosSoudris">Dimitrios Soudris</na>
+</co>
+<co c="0">
+<na f="s/Stricker:Didier" pid="02/5478">Didier Stricker</na>
+</co>
+<co c="0" n="2">
+<na f="s/Sumbul:Huseyin_Ekin" pid="44/9083">Huseyin Ekin Sumbul</na>
+<na>Huseyin Sumbul</na>
+</co>
+<co c="1">
+<na f="s/Szydzik:Tomasz" pid="81/10762">Tomasz Szydzik</na>
+</co>
+<co c="0">
+<na f="t/Tavoularis:Antonis" pid="233/0686">Antonis Tavoularis</na>
+</co>
+<co c="0">
+<na f="t/Toma:Vasile" pid="161/7974">Vasile Toma</na>
+</co>
+<co c="0">
+<na f="t/Tr=auml=ff:Jesper_Larsson" pid="t/JLTraff">Jesper Larsson Träff</na>
+</co>
+<co c="0">
+<na f="t/Tsigas:Philippas" pid="t/PhilippasTsigas">Philippas Tsigas</na>
+</co>
+<co c="0">
+<na f="v/V=aacute=llez:Noelia" pid="06/8173">Noelia Vállez</na>
+</co>
+<co c="2">
+<na f="w/Wang_0001:Xiaojun" pid="13/4881-1">Xiaojun Wang 0001</na>
+</co>
+<co c="0" n="2">
+<na f="w/W=auml=ny:Martin" pid="199/8885">Martin Wäny</na>
+<na>Martin Waeny</na>
+</co>
+<co c="0">
+<na f="w/Watson:Simon" pid="80/9675">Simon Watson</na>
+</co>
+<co c="0">
+<na f="x/Xu:Xiaofan" pid="182/5393">Xiaofan Xu</na>
+</co>
+<co c="0">
+<na f="x/Xygkis:Athanasios" pid="221/2897">Athanasios Xygkis</na>
+</co>
+<co c="0">
+<na f="y/Yin:Hujun" pid="80/2742">Hujun Yin</na>
+</co>
+<co c="0">
+<na f="y/Yous:Hamza" pid="202/5520">Hamza Yous</na>
+</co>
+<co c="0">
+<na f="y/Yous:Sofiane" pid="12/3033">Sofiane Yous</na>
+</co>
+</coauthors>
+</dblpperson>
